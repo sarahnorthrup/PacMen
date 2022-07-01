@@ -1,12 +1,12 @@
-# RealTimeBusTracker
+# Pacmen
 
 ## Description
-This program maps out The Boston area and real time bus routes. This updates every 15 seconds to show an acccurate account of data. 
+This creates multiple pacmen that hit the boundaries of the window and bounce back the other direction. There is buttons to create pacmen and start.
 ## How to Run
 Open the index.html file in your browser with the connected files
 
 ## Future Improvements
-Potentially adding links to other cities and routes
+Potentially adding additional buttons with additional characters. 
 
 ## Lisense 
 ### The MIT License
